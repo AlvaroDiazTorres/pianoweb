@@ -1,3 +1,3 @@
 export default {
-    base:'/piano/'
+    base: '/piano/'
 }
